@@ -12,4 +12,4 @@ Text embedding model:
 
 Multimodal Integration:
 
-1) BERT + MobileNetV2   -- /blob/main/Feature_Integration_Bert_MobilenetV2.ipynb
+1) BERT + MobileNetV2   
