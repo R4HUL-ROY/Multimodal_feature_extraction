@@ -12,4 +12,4 @@ Text embedding model:
 
 Multimodal Integration:
 
-1) BERT + MobileNetV2
+1) BERT + MobileNetV2   -- https://github.com/R4HUL-ROY/Multimodal_feature_extraction/blob/main/Feature_Integration_Bert_MobilenetV2.ipynb
