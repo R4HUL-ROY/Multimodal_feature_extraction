@@ -9,6 +9,8 @@ Text embedding model:
  1) TFIDF
  2) BERT
  3) GloVe
+ 4) FastText
+
 
 Multimodal Integration:
 
