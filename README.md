@@ -14,4 +14,5 @@ Text embedding model:
 
 Multimodal Integration:
 
-1) BERT + MobileNetV2   
+1) BERT + MobileNetV2 
+2) BERT + VGG16  
